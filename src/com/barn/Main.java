@@ -10,6 +10,7 @@ public class Main {
         findBarnCapacityFromLastBEMSAmount(88);
 
         System.out.println("Print from barn2");
+        System.out.println("Print from barn3");
         
     }
 
